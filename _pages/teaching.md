@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching activities at Politecnico di Milano.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Computer Architecture and Operating Systems (085779)
 
-Organize your courses by years, topics, or universities, however you like!
+Teaching Assistant, Politecnico di Milano · Sept 2022 – present · 40h/year
+
+#### Computer Science and Elements of Medical Information (085851)
+
+Lab Supervisor, Politecnico di Milano · March 2022 – May 2022 · 15h
+
+#### Final Examination – Software Engineering (085923)
+
+Teaching Assistant, Politecnico di Milano · Feb 2022 – May 2022 · 12h

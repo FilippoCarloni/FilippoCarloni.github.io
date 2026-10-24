@@ -19,7 +19,7 @@
       institution: National Inter-University Consortium for Telecommunications (CNIT), Italy
       year: Mar 2025 - present
       description:
-        - 'Member of the <a href="https://antlab.deib.polimi.it/research-activities/networks-and-systems/">Networks and Systems group</a> at ANTLab, Politecnico di Milano, working with <a href="https://gianniantichi.github.io/">Prof. Gianni Antichi</a>.'
+        - 'Member of the <a href="https://antlab.deib.polimi.it/research-activities/networks-and-systems/">Networks and Systems group</a> at ANTLab, Politecnico di Milano, supervised by <a href="https://gianniantichi.github.io/">Prof. Gianni Antichi</a>.'
         - Research and development of network systems frameworks, including domain-specific compilers and customized offloading techniques exploiting hardware acceleration on FPGA- and ASIC-based SmartNICs.
         - Focus on network security applications such as DDoS mitigation, firewalling, and real-time traffic monitoring.
         - System design, implementation, and experimental evaluation on cutting-edge platforms (e.g., NVIDIA BlueField-3 DPU).
@@ -62,6 +62,7 @@
         - <a href="https://2026.eurosys.org/eurosys-awards.html#awards">Distinguished Artifact Evaluator Award - ACM EuroSys 2026</a>
     - year: 2025
       items:
+        - <a href="https://site.ieee.org/italy-cs/eventi/">IEEE Computer Society Italy Chapter PhD Thesis Award (2025 edition)</a>
         - ACM SIGCOMM Travel Grant
     - year: 2024
       items:
@@ -105,6 +106,8 @@
         - IPDPS - RAW 2023, 2024
     - title: Technical Program Committee
       items:
+        - <a href="https://sigmetrics.org/sigmetrics2027/pages/program_committee.html">ACM SIGMETRICS 2027</a>
+        - <a href="https://hipc.org/program-committee/">IEEE HiPC 2026 (Hardware Technology track)</a>
         - IEEE Computer Society Annual Symposium on VLSI (ISVLSI) 2025
         - HSTIEC Special Session at Euromicro DSD 2025, 2026
     - title: Shadow Technical Program Committee
@@ -112,6 +115,7 @@
         - ACM SIGMETRICS 2026
     - title: Organizing Committee
       items:
+        - 'Workshop Co-Chair - Special Session: An AI-Orchestrated Architecture: Data Plane, Digital Twin, and Smart Marketplace for 6G Networks of Networks - IEEE CloudNet 2026 (<a href="https://cloudnet2026.ieee-cloudnet.org/system/files/downloads/2026-04/-flecon-6g-ieee-cloudnet-workshop-cfp.pdf">CFP</a>)'
         - "Special Session: An AI-Orchestrated Architecture: Data Plane, Digital Twin, and Smart Marketplace for 6G Networks of Networks - IEEE NFV-SDN 2025"
     - title: Session Chair
       items:
@@ -122,15 +126,18 @@
         - FPL 2025, FCCM 2024, CODES+ISSS, ICCAD 2023, ISCAS 2024-2026, EUROCON 2023
     - title: Journal Reviewer
       items:
-        - IEEE TCAD (17 reviews, since 2022)
-        - IEEE TVLSI (11 reviews, since 2023)
-        - ACM TRETS (6 reviews, since 2023)
-        - JPDC (8 reviews, since 2023)
+        - IEEE TCAD (23 reviews, since 2022)
+        - IEEE TVLSI (20 reviews, since 2023)
+        - ACM TRETS (8 reviews, since 2023)
+        - JPDC (9 reviews, since 2023)
         - IEEE IT Professional (1 review, since 2023)
 
 - title: Presentations and Talks
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - <a href="https://site.ieee.org/italy-cs/eventi/">PhD Thesis Award Lecture - "Exploiting Hardware and Software Specialization for Efficient Regular Expressions Processing" - IEEE Computer Society Italy Chapter (webinar)</a>
     - year: 2025
       items:
         - Invited Talk - "ALVEARE" - MIT, Northeastern University, Nokia Bell Labs, New York University
